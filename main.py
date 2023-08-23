@@ -1,5 +1,5 @@
 # This is a sample Python script.
-import decouple
+# import decouple
 
 TOKEN = ''
 
@@ -22,7 +22,6 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 import random
 
-
 class A1:
     def __init__(self, a):
         self.a = a
@@ -30,7 +29,7 @@ class A1:
 
 a = A1('a')
 print(a)
-import colorama
-print(colorama.Back.GREEN)
-print(colorama.Back.GREEN)
-print(colorama.Back.GREEN)
+# import colorama
+# print(colorama.Back.GREEN)
+# print(colorama.Back.GREEN)
+# print(colorama.Back.GREEN)
